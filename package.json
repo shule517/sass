@@ -1,0 +1,26 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^3.13.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "node-sass": "^3.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shule517/sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shule517/sass/issues"
+  },
+  "homepage": "https://github.com/shule517/sass#readme"
+}
